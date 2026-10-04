@@ -1,0 +1,13 @@
+Metric,Value
+Orders,400.0
+Customer name labels,20.0
+Units,4446.0
+Gross sales,74113394.0
+Discount amount,5600938.21
+Net sales,68512455.79
+Average order value,171281.139475
+Weighted discount %,7.557255048932181
+Mean delivery days,5.4575
+Median delivery days,5.0
+P90 delivery days,10.0
+Orders over 7 days,116.0
